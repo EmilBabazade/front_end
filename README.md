@@ -1,0 +1,1 @@
+app from https://github.com/docker-hy/material-applications/tree/main/example-frontend
